@@ -7,7 +7,14 @@ Red [
 
 comment {
   =====TODO=====
+  - implement all of mom's typesetting macros as red functions
+  - when document elements take a string, simply append
+  - when document elements take a series, which are series of typesetting functions, "do" them.
+  - implement introduction, preface, foreword, acknowlegments as mom "covers"
+  - inside strings, use @ to denote inline commands, like @i[italic text], @footnote, @href, @index[word] etc
+  - inside strings, @ also perform var subsitution, like @author, @today etc...
   - incorporate the red graphviz to generate diagrams and insert them as eps
+  - use red to import from CSV, XML etc... for typesetting in doc
 }
 
 
