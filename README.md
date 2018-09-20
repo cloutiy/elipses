@@ -1,5 +1,7 @@
 # Ellipses Typesetter
 
+> Better than Office, easier than `LaTex`
+
 This is my attempt to learn the red programming language by implementing a document typesetter.
 
 `Ellipses` is an attempt to create an easy to use typesetting solution which can be used both for general purpose and professional typesetting needs. 
