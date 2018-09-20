@@ -1,7 +1,18 @@
 Red []
+
 typography [
   kerning     {on}
   hyphenation {english}
+]
+
+.page [
+  height  {}
+  width   {}
+  two-sided?    {}
+  margin-top    {}
+  margin-bottom {}
+  margin-left   {}
+  margin-right  {}
 ]
 
 defaults [
@@ -32,26 +43,24 @@ toc [
 ]
 
 .blockquote [
-  quad        {center}
-  fill-text   {yes}
-  indent-left {1in}
-  indent-right{1cm}
-  font        {Aragon}
-  font-size   {10p}
+  quad        {JUSTIFY}
+  ;font-family{Aragon}
+  font-size   {-1}
   font-style  {R}
-  space-before{12p}
-  space-after {12p}
+  ;color       {}
+  ;indent      {}
+  auto-lead   {1.20 FACTOR}
+  ;force-space 
 ]
 
 .epigraph [
-  quad        {center}
-  fill-text   {yes}
-  indent-left {1i}
-  indent-right{1i}
-  font-size   {10p}
-  font-style  {italic}
-  space-before{12p}
-  space-after {12p}
+  ;quad        {JUSTIFY}
+  ;font-family {Aragon}
+  ;font-size   {-1}
+  font-style  {I}
+  ;color       {}
+  ;indent      {}
+  ;auto-lead   {1.20 FACTOR} 
 ]
 
 .p [

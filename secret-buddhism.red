@@ -18,11 +18,13 @@ docinfo [
 copyright {All rights reserved. No part of this document can be reproduced without consent by the author.}
 
 chapter 1 {Foundations of Secret Buddhism}
+epigraph {This is an epigraph. It usually comes after the chapter but befoe any running text.}
+
 h1 {The Founder of Secret Buddhism}
 p {The secret founder of this religious sect is not Sakyamuni Buddha, as many people have wrongly believed. It is the Creator or the Supreme Universal Ruler known as the Great Sun Buddha or Mahavairocana Buddha (Sanskrit). Who is He? The various Buddhist sects of the Great Vehicle system and the Secret sect have explained that the Buddha has three Bodies: The Dharma Body (law, doctrine), The Precious (or Bliss) Body, and the Incarnate (or transformation) Body.}
 
 h2 {The Dharmakaya}
-p {In Sanskrit, Vairocana Buddha, the Great Sun Buddha, symbolizes the personality of Truth, which is as brilliant as the sun in the infinite space. He resides in the magnificent world of beautiful flowers weaved by thousands of lotus petals beautiful (Kusukatala). Garba, Vyu Halamkara, Lokadhatu). In the tradition of the Great Vehicle Buddhist School, the Dharma Body taught the scriptures of superior knowledge such as the Avatamkara and Brahmajala Sutra to high ranking Bodhisattvas only. They are the only ones who can hear and see the Creator’s manifestation of the Truth. His world is called the Land of Permanently Still Light.}
+p {In Sanskrit, Vairocana Buddha, the Great Sun Buddha, symbolizes the personality of Truth, which is as brilliant as the sun in the infinite space. He resides in the magnificent world of beautiful flowers weaved by thousands of lotus petals beautiful (Kusukatala). Garba, Vyu Halamkara, Lokadhatu). In the tradition of the Great Vehicle Buddhist School, the Dharma Body taught the scriptures of superior knowledge such as the Avatamkara and Brahmajala Sutra to high ranking Bodhisattvas only. They are the only ones who can hear and see the Creator's manifestation of the Truth. His world is called the Land of Permanently Still Light.}
 
 code {docinfo [
   title  {My Awesome Book} \*[IT];This is a comment\*[PREV]
@@ -31,6 +33,7 @@ code {docinfo [
 
 p {The Dharma Body (Dharmakaya or Dharmata) is also the nature of all Buddhas (Buddhata) and all beings. All doctrines come from the Dharma Body. Without the Dharma Body, the universe does not exist. In this sense, the Dharma is the essential nature of all things that exist. This is illustrated by a saying from a Zen monk:}
 
+;blockquote [ adjust {-3p} {text}]
 blockquote {The real nature of the Dharma Body of the Buddha can be compared to infinite space, from which all things reflect themselves like the moon reflects itself in the water. Greenish bamboos are Dharma Body, the multitude of yellow flowers are Prajnas (wisdom).}
 
 p {As such, the Secret Buddhism Foundation is compatible with the religious foundations of other religions. That foundation is the Truth of Truth (satyasya satyan).}
