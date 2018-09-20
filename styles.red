@@ -1,10 +1,12 @@
 Red []
 
+; Options not implemented yet
 typography [
   kerning     {on}
   hyphenation {english}
 ]
 
+; Options not implemented yet
 .page [
   height  {}
   width   {}
@@ -15,6 +17,7 @@ typography [
   margin-right  {}
 ]
 
+; Options not implemented yet
 defaults [
   dimensions      {6x9in}
   orientation     {portrait}
@@ -29,6 +32,7 @@ defaults [
   need            {1}
 ]
 
+; Options not implemented yet
 toc [
   ;Level 1
   h1 [
@@ -37,6 +41,7 @@ toc [
       ]
 ]
 
+; Options not implemented yet
 .footer [
   page-number {on}
   footnotes   {arabic}
@@ -63,6 +68,7 @@ toc [
   ;auto-lead   {1.20 FACTOR} 
 ]
 
+; Options not implemented yet
 .p [
   quad        {justify}
   fill-text   {yes}
@@ -75,6 +81,7 @@ toc [
   space-after {12p}
 ]
 
+; Options not implemented yet
 .chapter [
   quad        {center}
   auto-number {yes}
@@ -104,6 +111,7 @@ toc [
   space-after {yes}
 ]
 
+; Options not implemented yet
 .image [
   align   {center}
   borders {1px}
